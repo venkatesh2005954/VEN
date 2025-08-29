@@ -1,0 +1,5 @@
+streamlit>=1.36
+gTTS>=2.5
+transformers>=4.43
+torch>=2.3; platform_system!="Windows"    # Linux/macOS CPU wheel
+pydantic>=2.7
